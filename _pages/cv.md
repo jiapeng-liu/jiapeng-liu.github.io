@@ -22,11 +22,13 @@ Work experience
     * Conducted a new algorithm to numerically simulate the cooling process of gas cooler.
     * Developed the analysis and design software based on C++.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Mar, 2015 - Jul, 2016: Research Assistant
+  * City University of Hong Kong
+  * Supervisor: Professor Zhi Ning
+  * Project: Continuous Monitoring of Roadside Air Quality in Hong Kong
+    * Constructed Neural Network Model for air pollutant concentration prediction.
+    * Designed experiments for investigating and improving chemical sensor’s performance.
+
 Skills
 ======
 * Skill 1
