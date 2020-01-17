@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Thermal Energy and Power Engineering, Northwestern Polytechnical University, 2013
-* Ph.D in Mechanical Engineering, Hong Kong University of Science and Technology, 2020 (expected)
+* B.Eng. in Northwestern Polytechnical University, 2013
+  * Major: Thermal Energy and Power Engineering
+* Ph.D in Hong Kong University of Science and Technology, 2020 (expected)
+  * Major: Mechanical Engineering
 
 Work experience
 ======
@@ -29,14 +31,14 @@ Work experience
     * Constructed Neural Network Model for air pollutant concentration prediction.
     * Designed experiments for investigating and improving chemical sensor’s performance.
 
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Solid Oxide Fuel Cells
+* First-Principles Study
+  * Density Functional Theory
+  * Molecular Dynamics
+* Electrochemical Impedance Spectroscopy
+* Machine Learning
 
 Publications
 ======
