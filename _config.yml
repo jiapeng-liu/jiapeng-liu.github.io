@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jiapeng LIU"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student @ HKUST"
   location         : "Hong Kong"
-  employer         : "The Hong Kong University of Science and Technology"
+  employer         : #"The Hong Kong University of Science and Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hecQO4gAAAAJ&hl=en"
   email            : "jliubt@connect.ust.hk"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/jiapeliu"
   vine             :
   weibo            :
   xing             :
