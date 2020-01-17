@@ -15,7 +15,7 @@ Education
   * Major: Thermal Energy and Power Engineering
 * Ph.D in Hong Kong University of Science and Technology, 2020 (expected)
   * Major: Mechanical Engineering
-
+  
 Work experience
 ======
 * Jun, 2013 - Nov, 2014: Research Assistant
@@ -30,7 +30,7 @@ Work experience
   * Project: Continuous Monitoring of Roadside Air Quality in Hong Kong
     * Constructed Neural Network Model for air pollutant concentration prediction.
     * Designed experiments for investigating and improving chemical sensor’s performance.
-
+  
 Research interests
 ======
 * Solid Oxide Fuel Cells
@@ -39,7 +39,7 @@ Research interests
   * Molecular Dynamics
 * Electrochemical Impedance Spectroscopy
 * Machine Learning
-
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -58,6 +58,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Contact information
 ======
-* Currently signed in to 43 different slack teams
+* Department of Mechanical and Aerospace Engineering, HKUST, Clear Water Bay, Hong Kong
+* Tel: (+852) 5168-7140
+* Email: jliubt@connect.ust.hk or suntan1991@gmail.com
+
+Honors and awards
+======
+* 2013, Outstanding Graduate Award of Northwestern Polytechnical University
+* 2019, Travel Grant Recipient of Solid State Ionic-22
