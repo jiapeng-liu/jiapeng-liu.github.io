@@ -1,5 +1,5 @@
 ---
-title: "Metallic MoS2 nanosheets: multifunctional electrocatalyst for the ORR, OER and Li–O2 batteries"
+title: "Metallic MoS<sub>2</sub> nanosheets: multifunctional electrocatalyst for the ORR, OER and Li–O<sub>2</sub> batteries"
 collection: publications
 permalink: /publication/2018-MoS2-Nanoscale
 excerpt: ''
@@ -12,4 +12,4 @@ Lithium–oxygen batteries (LOBs) possess the highest theoretical specific densi
 
 [Download paper here](http://jiapeng-liu.github.io/files/Z-Sadighi_2018_MoS2_Nanoscale.pdf)
 
-Recommended citation: Sadighi, Z., Liu, J., Zhao, L., Ciucci, F., & Kim, J. K. (2018). "Metallic MoS 2 nanosheets: multifunctional electrocatalyst for the ORR, OER and Li–O 2 batteries." <i>Nanoscale</i>. 10(47), 22549-22559.
+Recommended citation: Sadighi, Z., Liu, J., Zhao, L., Ciucci, F., & Kim, J. K. (2018). "Metallic MoS2 nanosheets: multifunctional electrocatalyst for the ORR, OER and Li–O2 batteries." <i>Nanoscale</i>. 10(47), 22549-22559.

@@ -1,5 +1,5 @@
 ---
-title: "Mesoporous MnCo2S4 nanosheet arrays as an efficient catalyst for Li–O2 batteries"
+title: "Mesoporous MnCo<sub>2</sub>S<sub>4</sub> nanosheet arrays as an efficient catalyst for Li–O<sub>2</sub> batteries"
 collection: publications
 permalink: /publication/2018-MnCo2S4-Nanoscale
 excerpt: ''
@@ -12,4 +12,4 @@ Ternary metal sulfides and ternary metal oxides have received much attention as 
 
 [Download paper here](http://jiapeng-liu.github.io/files/Z-Sadighi_2018_MnCo2S4_Nanoscale.pdf)
 
-Recommended citation: Sadighi, Z., Liu, J., Ciucci, F., & Kim, J. K. (2018). "Mesoporous MnCo2S4 nanosheet arrays as an efficient catalyst for Li–O 2 batteries." <i>Nanoscale</i>. 10(33), 15588-15599.
+Recommended citation: Sadighi, Z., Liu, J., Ciucci, F., & Kim, J. K. (2018). "Mesoporous MnCo2S4 nanosheet arrays as an efficient catalyst for Li–O2 batteries." <i>Nanoscale</i>. 10(33), 15588-15599.

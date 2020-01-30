@@ -3,7 +3,7 @@ title: "The Gaussian process distribution of relaxation times: A machine learnin
 collection: publications
 permalink: /publication/2019-GP-DRT-Acta
 excerpt: ''
-date: 2019-11-20
+date: 2020-11-20
 venue: 'Electrochimica Acta'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0013468619321887'
 citation: 'Liu, Jiapeng, and Francesco Ciucci. (2020). &quot;The Gaussian process distribution of relaxation times: A machine learning tool for the analysis and prediction of electrochemical impedance spectroscopy data.&quot; <i>Electrochimica Acta</i>. 331, 135316.'
