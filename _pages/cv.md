@@ -16,6 +16,20 @@ Education
 * Ph.D in [Hong Kong University of Science and Technology](https://www.ust.hk/), 2020 (expected)
   * Major: Mechanical Engineering
   
+Research interests
+======
+* Solid Oxide Fuel Cells
+* First-Principles Study
+  * Density Functional Theory
+  * Molecular Dynamics
+* Electrochemical Impedance Spectroscopy
+* Machine Learning
+  
+Honors and awards
+======
+* 2013, Outstanding Graduate Award of Northwestern Polytechnical University
+* 2019, Travel Grant Recipient of Solid State Ionic-22
+  
 Work experience
 ======
 * Jun, 2013 - Nov, 2014: Research Assistant
@@ -32,25 +46,20 @@ Work experience
     * Constructed Neural Network Model for air pollutant concentration prediction.
     * Designed experiments for investigating and improving chemical sensor’s performance.
   
-Research interests
-======
-* Solid Oxide Fuel Cells
-* First-Principles Study
-  * Density Functional Theory
-  * Molecular Dynamics
-* Electrochemical Impedance Spectroscopy
-* Machine Learning
-  
-Honors and awards
-======
-* 2013, Outstanding Graduate Award of Northwestern Polytechnical University
-* 2019, Travel Grant Recipient of Solid State Ionic-22
-  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Skills
+======
+* Professional
+  *  VASP, CP2K, Gaussian, LAMMPS, Pytorch, Tensorflow
+* Programming Languages
+  * Python, Matlab, C++, Unix shell scripts
+* Applications
+  * Linux, LaTeX
   
 <!---Talks
 #======
