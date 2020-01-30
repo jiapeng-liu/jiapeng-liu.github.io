@@ -31,7 +31,7 @@ Work experience
 
 * Mar, 2015 - Jul, 2016: Research Assistant
   * City University of Hong Kong
-%  * Supervisor: Professor Zhi Ning
+  <* Supervisor: Professor Zhi Ning>
   * Project: Continuous Monitoring of Roadside Air Quality in Hong Kong
     * Constructed Neural Network Model for air pollutant concentration prediction.
     * Designed experiments for investigating and improving chemical sensor’s performance.
