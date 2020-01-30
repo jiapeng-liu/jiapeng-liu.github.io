@@ -25,7 +25,7 @@ Work experience
 ======
 * Jun, 2013 - Nov, 2014: Research Assistant
   * Xi’an Jiaotong University
-  * Project: Numerical Simulation of Transcritical CO2 Heat Pump System
+  * Project: Numerical Simulation of Transcritical CO<sub>2</sub> Heat Pump System
     * Conducted a new algorithm to numerically simulate the cooling process of gas cooler.
     * Developed the analysis and design software based on C++.
 
@@ -52,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
+<!---Talks
 #======
 #  <ul>{% for post in site.talks %}
 #    {% include archive-single-talk-cv.html %}
@@ -63,6 +63,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+--->
   
 Contact information
 ======
