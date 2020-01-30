@@ -1,5 +1,5 @@
 ---
-title: "Dual-phase MoS2 as a high-performance sodium-ion battery anode"
+title: "Dual-phase MoS<sub>2</sub> as a high-performance sodium-ion battery anode"
 collection: publications
 permalink: /publication/2020-MoS2-JMCA
 excerpt: ''
