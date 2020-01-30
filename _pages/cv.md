@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Northwestern Polytechnical University, 2013
+* B.Eng. in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), 2013
   * Major: Thermal Energy and Power Engineering
-* Ph.D in Hong Kong University of Science and Technology, 2020 (expected)
+* Ph.D in [Hong Kong University of Science and Technology](https://www.ust.hk/), 2020 (expected)
   * Major: Mechanical Engineering
   
 Honors and awards
@@ -30,7 +30,7 @@ Work experience
     * Developed the analysis and design software based on C++.
 
 * Mar, 2015 - Jul, 2016: Research Assistant
-  * City University of Hong Kong
+  * [City University of Hong Kong](http://www.ninglab.org/)
   <!---* Supervisor: Professor Zhi Ning
   --->
   * Project: Continuous Monitoring of Roadside Air Quality in Hong Kong
