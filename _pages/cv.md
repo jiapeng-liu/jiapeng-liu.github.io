@@ -16,11 +16,6 @@ Education
 * Ph.D in [Hong Kong University of Science and Technology](https://www.ust.hk/), 2020 (expected)
   * Major: Mechanical Engineering
   
-Honors and awards
-======
-* 2013, Outstanding Graduate Award of Northwestern Polytechnical University
-* 2019, Travel Grant Recipient of Solid State Ionic-22
-  
 Work experience
 ======
 * Jun, 2013 - Nov, 2014: Research Assistant
@@ -45,6 +40,11 @@ Research interests
   * Molecular Dynamics
 * Electrochemical Impedance Spectroscopy
 * Machine Learning
+  
+Honors and awards
+======
+* 2013, Outstanding Graduate Award of Northwestern Polytechnical University
+* 2019, Travel Grant Recipient of Solid State Ionic-22
   
 Publications
 ======
