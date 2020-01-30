@@ -24,7 +24,7 @@ Honors and awards
 Work experience
 ======
 * Jun, 2013 - Nov, 2014: Research Assistant
-  * Xi’an Jiaotong University
+  * [Xi’an Jiaotong University](http://www.xjtu.edu.cn/)
   * Project: Numerical Simulation of Transcritical CO<sub>2</sub> Heat Pump System
     * Conducted a new algorithm to numerically simulate the cooling process of gas cooler.
     * Developed the analysis and design software based on C++.
