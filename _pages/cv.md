@@ -56,11 +56,13 @@ Skills
 ======
 * Professional
   *  VASP, CP2K, Gaussian, LAMMPS, Pytorch, Tensorflow
-* Programming Languages
+* Programming
   * Python, Matlab, C++, Unix shell scripts
 * Applications
   * Linux, LaTeX
-  
+* Languages
+  * English, Japanese
+
 <!---Talks
 #======
 #  <ul>{% for post in site.talks %}
