@@ -18,7 +18,7 @@ Education
   
 Research interests
 ======
-* Solid Oxide Fuel Cells
+* Solid State Electrolyte
 * First-Principles Study
   * Density Functional Theory
   * Molecular Dynamics
