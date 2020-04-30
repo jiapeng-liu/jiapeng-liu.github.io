@@ -12,4 +12,4 @@ In this article, we develop a new finite-element-based model for the simulation 
 
 [Download paper here](http://jiapeng-liu.github.io/files/JP-Liu_2017_MIEC_PCCP.pdf)
 
-Recommended citation: __Liu, J.__, & Ciucci, F. (2017). "Modeling the impedance spectra of mixed conducting thin films with exposed and embedded current collectors." <i>Physical Chemistry Chemical Physics</i>. 19, 26310-26321.
+Recommended citation: __Liu, J.__, & Ciucci, F.\* (2017). "Modeling the impedance spectra of mixed conducting thin films with exposed and embedded current collectors." <i>Physical Chemistry Chemical Physics</i>. 19, 26310-26321.
