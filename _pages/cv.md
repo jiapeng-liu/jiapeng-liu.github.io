@@ -13,7 +13,7 @@ Education
 ======
 * B.Eng. in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/), 2013
   * Major: Thermal Energy and Power Engineering
-* Ph.D candidate in [Hong Kong University of Science and Technology](https://www.ust.hk/), from 2016
+* Ph.D in [Hong Kong University of Science and Technology](https://www.ust.hk/), 2020 (expected)
   * Major: Mechanical Engineering
   
 Research interests
