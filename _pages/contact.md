@@ -23,6 +23,5 @@ Telephone
 Email
 ======
 * jliubt@connect.ust.hk
-* jiapeng.liu@alumni.ust.hk
 * suntan1991@gmail.com
 
