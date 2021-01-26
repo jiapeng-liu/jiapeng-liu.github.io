@@ -12,4 +12,4 @@ Supported metal catalysts represent one of the major milestones in heterogeneous
 
 [Download paper here](http://jiapeng-liu.github.io/files/JP-Liu_2020_Exsolution_ACS-Nano.pdf)
 
-Recommended citation: Kim, J.H., Kim, J.K., Liu, J., Curcio, A., Jang, J.S., Kim, I.D., Ciucci, F. and Jung, W., 2020. Nanoparticle Ex-solution for Supported Catalysts: Materials Design, Mechanism and Future Perspectives. <i>ACS nano.</i>, 15(1), 81-110.
+Recommended citation: Kim, J.H., Kim, J.K., Liu, J., Curcio, A., Jang, J.S., Kim, I.D., Ciucci, F. and Jung, W., 2020. Nanoparticle Ex-solution for Supported Catalysts: Materials Design, Mechanism and Future Perspectives. <i>ACS Nano.</i>, 15(1), 81-110.
