@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download my CV here](http://jiapeng-liu.github.io/files/Jiapeng_Liu_CV.pdf)
 Education
 ======
 * Ph.D in [Hong Kong University of Science and Technology](https://www.ust.hk/), 2020
