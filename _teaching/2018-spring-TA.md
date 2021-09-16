@@ -8,7 +8,8 @@ date: 2018-02-01
 location: "Clear Water Bay, Hong Kong"
 ---
 
-<!---This is a description of a teaching experience. You can use markdown like any other post.
+<!---
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
