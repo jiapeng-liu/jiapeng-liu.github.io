@@ -58,7 +58,7 @@ Publications
 Skills
 ======
 * Professional
-  *  VASP, CP2K, Gaussian, LAMMPS, Pytorch, Tensorflow
+  *  VASP, CP2K, CASTEP, Gaussian, LAMMPS, GROMACS, Pytorch, Tensorflow
 * Programming
   * Python, Matlab, C++, Unix shell scripts
 * Applications
@@ -72,10 +72,10 @@ Skills
 #    {% include archive-single-talk-cv.html %}
 #  {% endfor %}</ul>
 #  
+--->
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
---->
 
