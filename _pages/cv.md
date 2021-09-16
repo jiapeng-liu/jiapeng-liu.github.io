@@ -65,6 +65,12 @@ Skills
   * Linux, LaTeX
 * Languages
   * English, Japanese
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <!---Talks
 #======
@@ -73,8 +79,3 @@ Skills
 #  {% endfor %}</ul>
 #  
 --->
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
