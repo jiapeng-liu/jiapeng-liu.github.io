@@ -12,4 +12,4 @@ Solid polymer electrolytes (SPEs) and gel polymer electrolytes (GPEs) show great
 
 [Download paper here](http://jiapeng-liu.github.io/files/J-Yu_2021_Dual_salt_EnSM.pdf)
 
-Recommended citation: Yu, J., Liu, J., Lin, X., Law, H.M., Zhou, G., Kwok, S.C., Robson, M.J., Wu, J. and Ciucci, F., 2021. A solid-like dual-salt polymer electrolyte for Li-metal batteries capable of stable operation over an extended temperature range. <i>Energy Storage Materials</i>, 37, 609-618..
+Recommended citation: Yu, J., Liu, J., Lin, X., Law, H.M., Zhou, G., Kwok, S.C., Robson, M.J., Wu, J. and Ciucci, F., 2021. A solid-like dual-salt polymer electrolyte for Li-metal batteries capable of stable operation over an extended temperature range. <i>Energy Storage Materials</i>, 37, 609-618.

@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Ni Exsolution by Nonmetal B-Site Substituents (Si and P) in SrTiO3-Based Solid Oxide Fuel Cell Anodes"
+title: "Enhancing Ni Exsolution by Nonmetal B-Site Substituents (Si and P) in SrTiO<sub>3</sub>-Based Solid Oxide Fuel Cell Anodes"
 collection: publications
 permalink: /publication/2021-SOFC-Exsolution-Energy-Fuel
 excerpt: ''

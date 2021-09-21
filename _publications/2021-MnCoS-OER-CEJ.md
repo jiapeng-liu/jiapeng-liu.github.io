@@ -1,5 +1,5 @@
 ---
-title: "Tailoring the Interfacial Active Center of MnSxO2-x/MnCo2S4 Heterostructure to Boost the Performance for Oxygen Evolution Reaction and Zn-Air Batteries in Neutral Electrolyte"
+title: "Tailoring the Interfacial Active Center of MnS<sub>x</sub>O<sub>2-x</sub>/MnCo<sub>2</sub>S<sub>4</sub> Heterostructure to Boost the Performance for Oxygen Evolution Reaction and Zn-Air Batteries in Neutral Electrolyte"
 collection: publications
 permalink: /publication/2021-MnCoS-OER-CEJ
 excerpt: ''
