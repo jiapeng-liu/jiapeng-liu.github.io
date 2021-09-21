@@ -3,7 +3,7 @@ title: "Establishing Structure/Property Relationships in Atomically Dispersed Co
 collection: publications
 permalink: /publication/2021-SA_CoFe-JMCA
 excerpt: ''
-date: 2020-05-10
+date: 2021-05-10
 venue: 'Journal of Materials Chemistry A'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA02925H'
 citation: 'Kai Wang&Dagger;, <u><b>Jiapeng Liu</b></u>&Dagger;, Zhenghua Tang*, Liqui Li, Zheng Wang, Muhammad Zubair, Francesco Ciucci*, Lars Thomsen, Joshua Wright, Nicholas M Bedford*. (2021). &quot;Establishing Structure/Property Relationships in Atomically Dispersed Co-Fe Dual Sites M-Nx Catalysts on Microporous Carbon for Oxygen Reduction Reaction.&quot; <i><b>Journal of Materials Chemistry A</b></i>, 9(22), 13044-13055 .'
