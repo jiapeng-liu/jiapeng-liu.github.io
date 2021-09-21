@@ -12,4 +12,4 @@ Metal anodes possess the potential to disrupt the limits imposed by intercalatio
 
 [Download paper here](http://jiapeng-liu.github.io/files/A-Susca_2020_Carbon-Fiber_JMCA.pdf)
 
-Recommended citation: Susca, A.;  Liu, J.;  Cui, J.;  Mubarak, N.;  Wu, J.;  Ihsan-ul Haq, M.;  Ciucci, F.; Kim, J.-K., 2020. Affinity-engineered carbon nanofibers as scaffold for Na metal anodes. <i>Journal of Materials Chemistry A</i>, 8(29), 14757-14768.
+Recommended citation: Susca, A., Liu, J., Cui, J., Mubarak, N., Wu, J., Ihsan-ul Haq, M., Ciucci, F. and Kim, J.-K., 2020. Affinity-engineered carbon nanofibers as scaffold for Na metal anodes. <i>Journal of Materials Chemistry A</i>, 8(29), 14757-14768.

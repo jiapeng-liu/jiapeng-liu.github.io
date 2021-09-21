@@ -12,4 +12,4 @@ Herein, a series of molecular actuators based on thecrystals of (E)-2-(4-fluoros
 
 [Download paper here](http://jiapeng-liu.github.io/files/HR-Wang_2020_Photo_CCS-Chem.pdf)
 
-Recommended citation: Wang, H., Liu, J., Ye, K., Li, Q., Zhang, J., Xing, H., Wei, P., Sun, J., Ciucci, F., Lam, J. W. Y., Lu, R.,Tang, B. Z., 2020. Positive/Negative Phototropism: Controllable Molecular Actuators with Different Bending Behavior. <i>CCS Chemistry</i>, 2, 1491–1500.
+Recommended citation: Wang, H., Liu, J., Ye, K., Li, Q., Zhang, J., Xing, H., Wei, P., Sun, J., Ciucci, F., Lam, J. W. Y., Lu, R. and Tang, B. Z., 2020. Positive/Negative Phototropism: Controllable Molecular Actuators with Different Bending Behavior. <i>CCS Chemistry</i>, 2, 1491–1500.

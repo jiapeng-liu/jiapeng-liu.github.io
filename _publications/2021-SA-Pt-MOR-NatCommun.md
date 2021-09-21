@@ -12,4 +12,4 @@ Single-atom catalysts have been widely investigated for several electrocatalytic
 
 [Download paper here](http://jiapeng-liu.github.io/files/ZQ-Zhang_2021_SA_Pt_MOR_Nat_Commun.pdf)
 
-Recommended citation: Zhang, Z., Liu, J., Wang, J., Wang, Q., Wang, Y., Wang, K., Wang, Z., Gu, M., Tang, Z., Lim, J. and Zhao, T. and Ciucci, F., 2021. Single-atom catalyst for high-performance methanol oxidation. <i>Nature Communications</i>, 12(1), 1-9.
+Recommended citation: Zhang, Z., Liu, J., Wang, J., Wang, Q., Wang, Y., Wang, K., Wang, Z., Gu, M., Tang, Z., Lim, J., Zhao, T. and Ciucci, F., 2021. Single-atom catalyst for high-performance methanol oxidation. <i>Nature Communications</i>, 12(1), 1-9.

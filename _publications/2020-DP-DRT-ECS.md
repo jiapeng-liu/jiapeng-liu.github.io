@@ -12,4 +12,4 @@ Electrochemical impedance spectroscopy (EIS) is the established tool for the stu
 
 [Download paper here](http://jiapeng-liu.github.io/files/JP-Liu_2020_DP-DRT_ECS.pdf)
 
-Recommended citation: Liu, J., & Ciucci, F., 2020. The Deep-Prior Distribution of Relaxation Times. <i>Journal of The Electrochemical Society</i>, 167(2), 026506.
+Recommended citation: Liu, J. and Ciucci, F., 2020. The Deep-Prior Distribution of Relaxation Times. <i>Journal of The Electrochemical Society</i>, 167(2), 026506.

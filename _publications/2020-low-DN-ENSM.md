@@ -12,4 +12,4 @@ Fast cationic conduction is necessary for a number of solid-state technologies a
 
 [Download paper here](http://jiapeng-liu.github.io/files/ZH-Lu_2020_Anti-perovskite_ENSM.pdf)
 
-Recommended citation: Lu, Z., Liu, J., and Ciucci, F., 2020. Superionic Conduction in Low-Dimensional-Networked Anti-Perovskites. <i>Energy Storage Materials</i>, 28, 146-152.
+Recommended citation: Lu, Z., Liu, J. and Ciucci, F., 2020. Superionic Conduction in Low-Dimensional-Networked Anti-Perovskites. <i>Energy Storage Materials</i>, 28, 146-152.
